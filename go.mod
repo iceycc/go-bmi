@@ -1,3 +1,3 @@
-module github.com/armstrongli/go-bmi
+module github.com/iceycc/go-bmi
 
 go 1.16
